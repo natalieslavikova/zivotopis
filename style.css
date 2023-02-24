@@ -5,7 +5,7 @@ html {
   body {
     margin: 0;
     font-family: cursive;
-    font-size: 20px;
+    font-size: 23px;
     line-height: 1.5;
     color: #000000;
 }
@@ -22,15 +22,15 @@ h1 {
     font-size: 80px;
     text-align: center;
     color: rgb(12, 24, 29);
-    text-shadow: 0px 6px 10px rgb(206, 137, 189);
-    background-color: #1a1a1a56
+    text-shadow: 0px 8px 15px rgb(219, 72, 183)
+    
 }
 
 h2 {
     font-size: 35px;
     text-align: left;
     color: rgb(12, 24, 29);
-    text-shadow: 0px 6px 10px rgb(206, 137, 189);
+    text-shadow: 0px 5px 5px rgb(219, 72, 183);
 }
 h3 {font-size: 25px;
     text-align: left;
@@ -38,7 +38,7 @@ h3 {font-size: 25px;
     text-shadow: 2px 2px 2px rgb(0, 0, 0)
   }
   a {
-    color: #c276bc;
+    color: #c91fbb;
     font-style: normal;
   }
 
@@ -64,13 +64,13 @@ h3 {font-size: 25px;
 .pracovnizkusenosti,
  .osvedceni,
  .jazykyzaliby{
-  background-color: #1a1a1a56;
+    background-color: #00000033;
 }
 
 .paticka {
-    padding: 20px 0;
+    padding: 15px 0;
     text-align: center;
-    background-color: #1a1a1a56;
+    background-color: #1a1a1a33;
   }
 
   .foto img {
@@ -85,4 +85,12 @@ h3 {font-size: 25px;
     background-color: #eb9fee94;
   }    
           
-          
+  .hlavicka {
+    padding: 5px 30px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: rgb(12, 24, 29);
+    text-shadow: 0px 7px 7px rgb(219, 72, 183);
+    background-color: #1a1a1a33
+}     
