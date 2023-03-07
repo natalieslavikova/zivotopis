@@ -3,8 +3,8 @@ html {
   }
 
   body {
+    font-family:Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 0;
-    font-family: cursive;
     font-size: 23px;
     line-height: 1.5;
     color: #000000;
@@ -50,6 +50,7 @@ h3 {font-size: 25px;
   .natalie2 {
   background-color: #eb9fee94;
   text-align: left;
+  overflow: auto;
 }
 
           .natalie {
@@ -89,8 +90,6 @@ h3 {font-size: 25px;
           
   .hlavicka {
     padding: 5px 30px;
-    background-repeat: no-repeat;
-    background-position: center;
     background-size: cover;
     color: rgb(12, 24, 29);
     text-shadow: 0px 7px 7px rgb(219, 72, 183);
